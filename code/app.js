@@ -3,7 +3,7 @@ var accedi = function(){
  var username=$("#username>input").val();
  console.log("username"+username);
  var password =$("#password>input").val();
- console.log("password"+password);
+ console.log("password"+username);
 }
     var init = function(){
         console.log("ciao sono bonzo");
